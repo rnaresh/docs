@@ -31,7 +31,7 @@ Change the existing **"#HEX"** values with custom colors from the color picker f
 3. **`Header`**: Colors to change the header styles
 4. **`More options`**: Disable and alert state colors for the application
 
-[![](/learn/assets/theme-builder-step1.png)](/learn/assets/theme-builder-step1.png)
+[![](/learn/assets/theme-builder-step1.png)](/learn/assets/Theme-builder-step1.png)
 
 
 ### Step 2
@@ -42,7 +42,7 @@ Customize the typography of the body text, captions, and headings. Choose availa
 2. **`Body font`**: Change font-famliy for body and captions 
 3. **`More options`**: Modify font weight, font-size, case
 
-[![](/learn/assets/theme-builder-step2.png)](/learn/assets/theme-builder-step2.png)
+[![](/learn/assets/theme-builder-step2.png)](/learn/assets/Theme-builder-step2.png)
 
 
 ### Step 3
@@ -53,7 +53,7 @@ Change the variation of theme style as per the aesthetics. Switching between the
     - Flat Outline 
     - Gradient Fill
 
-[![](/learn/assets/theme-builder-step3.png)](/learn/assets/theme-builder-step3.png)
+[![](/learn/assets/theme-builder-step3.png)](/learn/assets/Theme-builder-step3.png)
   
 
 :::note
