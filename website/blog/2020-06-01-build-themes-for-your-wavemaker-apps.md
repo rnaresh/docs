@@ -30,7 +30,7 @@ Primary color maps to all components and elements, while secondary color accents
 
 "Header" and "Left nav" colors define the coloring scheme for background, text, and active links. We also have "More" options to handle the notification and disable state colors.
 
-[![](/learn/assets/theme-builder-step1.png)](/learn/assets/Theme-builder-step1.png)
+[![](/learn/assets/theme-builder-step1.png)](/learn/assets/theme-builder-step1.png)
 
 
 ### Typography
@@ -38,7 +38,7 @@ Primary color maps to all components and elements, while secondary color accents
 To change your theme's typography, choose the options from the dropdown, may it be font-family or size of headings and body text. 
 
 
-[![](/learn/assets/theme-builder-step2.png)](/learn/assets/Theme-builder-step2.png)
+[![](/learn/assets/theme-builder-step2.png)](/learn/assets/theme-builder-step2.png)
 
 
 ### Style
@@ -52,7 +52,7 @@ The material-theme has a sleek finish with elevated shadows to understand each e
 The gradient theme fills the content blocks with a linear gradient shade starting from top to bottom. 
 
 
-[![](/learn/assets/theme-builder-step3.png)](/learn/assets/Theme-builder-step3.png)
+[![](/learn/assets/theme-builder-step3.png)](/learn/assets/theme-builder-step3.png)
 
 ### How to build a theme: 
 
